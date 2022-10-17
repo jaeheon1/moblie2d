@@ -1,0 +1,21 @@
+com.com.Kim.SBSGame.Game2d
+drawable anp_bell
+drawable anp_clock
+drawable anp_cloud
+drawable anp_event
+drawable anp_heart
+drawable anp_message
+drawable anp_star
+id unitySurfaceView
+mipmap app_icon
+mipmap app_icon_round
+string FreeformWindowOrientation_landscape
+string FreeformWindowOrientation_portrait
+string FreeformWindowSize_maximize
+string FreeformWindowSize_phone
+string FreeformWindowSize_tablet
+string app_name
+string game_view_content_description
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

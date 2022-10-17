@@ -1,0 +1,4 @@
+#Mon Oct 17 19:24:12 GMT+09:00 2022
+base.0=C\:\\Users\\Administrator\\Desktop\\moblie2d\\2dmoblie2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
