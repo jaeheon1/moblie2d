@@ -37,14 +37,17 @@ public class Player1 : MonoBehaviour
 
         //Rigidbody에 대한 연산같은 경우 Fixed에서 처리해야한다.
 
-        if (Input.GetKeyDown(KeyCode.Space))//키코드를 통해가지고 한다. 버튼다운은 정해져있는거
-        {
-            //ForceMode2D.Impulse 무게를 적용할 때 사용합니다.
-            rigid2D.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);   //Addforce 힘을 주는것
-        }
+       
 
     }
 
+    public void Jump()
+    {
+        
+            //ForceMode2D.Impulse 무게를 적용할 때 사용합니다.
+            rigid2D.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);   //Addforce 힘을 주는것
+        
+    }
     //private void FixedUpdate()
     //{
     //    //Rigidbody에 대한 연산같은 경우 Fixed에서 처리해야한다.
